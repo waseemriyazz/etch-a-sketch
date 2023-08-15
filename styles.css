@@ -42,12 +42,14 @@ h4 {
     width: 480px;
     height: 480px;
     background-color: white;
+    display: grid;
     
 }
 .footer {
     padding: 30px;
     text-align: center;
-    color: #BEADFA;
+    color: wheat;
+    background-color: #4d057a;
     
     
 }
